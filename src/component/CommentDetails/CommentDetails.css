@@ -1,0 +1,19 @@
+.details-highlight{
+    border: 1px solid slategray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    /* padding: 10px 20px; */
+    background-color: teal;
+    color: whitesmoke;
+    display: flex;
+}
+.image img{
+    width: 120px;
+    height: 120px;
+}
+.image{
+    padding-top: 5px;
+}
+.detail{
+    padding-left: 15px;
+}
